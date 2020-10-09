@@ -1,1 +1,4 @@
-# instagram-clone-ui
+# Instagram-clone-ui
+
+https://snack.expo.io/@gmpravin/instagram-clone
+
